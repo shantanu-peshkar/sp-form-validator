@@ -1,0 +1,28 @@
+{
+  "name": "sp-form-validator",
+  "version": "1.0.0",
+  "description": "An npm package to validate form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanu-peshkar/sp-form-validator.git"
+  },
+  "keywords": [
+    "npm",
+    "form",
+    "validation",
+    "validator"
+  ],
+  "author": "Shantanu Peshkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shantanu-peshkar/sp-form-validator/issues"
+  },
+  "homepage": "https://github.com/shantanu-peshkar/sp-form-validator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
